@@ -17,4 +17,8 @@ public class EmployeeUpdateDTO {
   @Setter
   private String email;
 
+  @Getter
+  @Setter
+  private String type;
+
 }
