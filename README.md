@@ -1,5 +1,6 @@
 # EMPLOYEE CREATOR APP (SPRING BOOT REST API)
 
+- Live: https://employee-creator.netlify.app/
 - This is the backend of full stack app called Employee Creator App built on Spring boot with REST API.
 
 ## Purpose
@@ -42,6 +43,6 @@
 
 ## Future Goals
 
-- Add user authentication using JWT
-- Add tests
-- Deploy the full stack app on cloud
+- [ ] Add user authentication using JWT
+- [ ] Add tests
+- [x] Deploy the full stack app on cloud
